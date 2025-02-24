@@ -1,5 +1,4 @@
 /**
- * Exam 1 problem part 2:
  * Create a "Queue" class that uses a linked list with a "first in first out" rule,
  * similar to "Stack".
  *
