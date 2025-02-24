@@ -1,6 +1,6 @@
 # 📚 Java Educational Projects
 
-Welcome to my collection of Java projects! This repository contains a variety of examples designed to help learners understand core concepts of Java programming through hands-on practice. Each folder focuses on a fundamental topic, complete with code implementations and explanations. Whether you're just starting out or looking to deepen your understanding, these projects cover a range of essential programming skills.
+Welcome to my collection of Java projects! This repository contains a variety of examples designed to help learners understand core concepts of Java programming through hands-on practice. Each folder focuses on a fundamental topic, complete with code implementations, test methods, and explanations. These projects cover essential topics in beginner Java development.
 
 ---
 
@@ -89,3 +89,11 @@ A simple dictionary application that demonstrates:
 2. Clone this repository:
    ```bash
    git clone https://github.com/onlyriley/BeginnerJavaProjects.git
+
+
+---
+
+## 🙌 Contributions
+If you have any small Java projects that helped you, or if you want to improve on these existing projects, you can contribute by:
+1. Creating a new branch
+2. Submitting a pull request
