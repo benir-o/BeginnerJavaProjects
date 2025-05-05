@@ -13,14 +13,14 @@ public class WordCrusher {
         System.out.print("Enter a word / string: ");
         String str = scan.nextLine();
 
-        String[] userSentance = str.split("\s");
-        String crushedSentance = "";
-        for (String s : userSentance) {
+        String[] userSentence = str.split("\s");
+        String crushedSentence = "";
+        for (String s : userSentence) {
             String crushedWord = findLongest(s);
-            crushedSentance += (crushedWord + " ");
+            crushedSentence += (crushedWord + " ");
         }
 
-        System.out.println("Crushed: " + crushedSentance);
+        System.out.println("Crushed: " + crushedSentence);
     }
 
     /**
