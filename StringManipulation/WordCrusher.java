@@ -1,5 +1,4 @@
-package edu.bloomu;
-
+package BeginnerJavaProjects.StringManipulation;
 import java.util.Scanner;
 
 /**

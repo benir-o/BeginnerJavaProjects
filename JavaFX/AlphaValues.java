@@ -1,4 +1,4 @@
-package edu.bloomu.hw2;
+package BeginnerJavaProjects.JavaFX;
 
 import javafx.application.Application;
 import javafx.scene.Scene;

@@ -1,3 +1,4 @@
+package BeginnerJavaProjects.Queue;
 /**
  * Create a "Queue" class that uses a linked list with a "first in first out" rule,
  * similar to "Stack".

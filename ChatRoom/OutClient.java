@@ -1,3 +1,4 @@
+package BeginnerJavaProjects.ChatRoom;
 import java.util.Scanner;
 
 /**

@@ -1,3 +1,5 @@
+package BeginnerJavaProjects.ArrayList1;
+
 /**
  * Used to test the methods of the MyArrayList class.
  *

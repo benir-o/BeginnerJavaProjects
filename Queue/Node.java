@@ -1,3 +1,4 @@
+package BeginnerJavaProjects.Queue;
 /**
  * Generic node class used as pieces for a linked list.
  *

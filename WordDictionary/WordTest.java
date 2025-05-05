@@ -1,3 +1,4 @@
+package BeginnerJavaProjects.WordDictionary;
 public class WordTest
 {
     public static void main(String[] args)

@@ -1,4 +1,4 @@
-package edu.bloomu;
+package BeginnerJavaProjects.MonteCarlo;
 
 import java.util.Scanner;
 import java.util.concurrent.ThreadLocalRandom;

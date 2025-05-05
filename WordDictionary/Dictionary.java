@@ -1,3 +1,4 @@
+package BeginnerJavaProjects.WordDictionary;
 import java.util.LinkedList;
 
 /**

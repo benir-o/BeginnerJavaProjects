@@ -1,3 +1,4 @@
+package BeginnerJavaProjects.MortgageServer;
 /**
  * Used to calculate monthly payments on a mortgage.
  *

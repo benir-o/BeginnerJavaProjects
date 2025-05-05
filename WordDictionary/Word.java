@@ -1,3 +1,4 @@
+package BeginnerJavaProjects.WordDictionary;
 /**
  * Defines a word along with its description, and allows operations on the word
  * and its description.

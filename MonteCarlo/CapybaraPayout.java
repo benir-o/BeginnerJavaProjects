@@ -1,4 +1,4 @@
-package edu.bloomu.hw3;
+package BeginnerJavaProjects.MonteCarlo;
 
 import java.util.concurrent.ThreadLocalRandom;
 

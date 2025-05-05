@@ -1,4 +1,4 @@
-
+package BeginnerJavaProjects.ArrayList1;
 /**
  *  Used to create arrays that have more functionality, similar to an ArrayList.
  *
